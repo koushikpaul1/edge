@@ -1,2 +1,6 @@
+reduceByKey(func)
 fold()
 aggregate()
+combineByKey()
+repartition()
+coalesce()
