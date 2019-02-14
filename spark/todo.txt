@@ -1,9 +1,0 @@
-reduceByKey(func)
-fold()
-aggregate()
-combineByKey()
-repartition()
-coalesce()
-Spark objectFile
-RangePartitioner
-custom partitioner
